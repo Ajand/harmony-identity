@@ -1,0 +1,11 @@
+[
+  "constructor()",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function addMapping(address,string,string,string)",
+  "function changeManager(address)",
+  "function getMappers() view returns (address[])",
+  "function getMappingAddress(address) view returns (address)",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address)"
+]
